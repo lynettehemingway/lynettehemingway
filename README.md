@@ -1,5 +1,5 @@
 # 💫 about me:
-hi, i'm lynette. <br>🥚third year computer science student<br>🥚university of florida<br><br>🥚https://lynettehemingway.github.io/lynette-portfolio/ 
+🥚hi, i'm lynette hemingway ~ <br>🥚third year computer science student<br>🥚university of florida<br><br>🥚https://lynettehemingway.github.io/lynette-portfolio/ 
 
 ## 🌐 socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lynette-hemingway) 

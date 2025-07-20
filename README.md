@@ -1,5 +1,5 @@
-# 💫 hi, i'm lynette hemingway ~
-<🥚third year computer science student @ the university of florida <br>🥚https://lynettehemingway.github.io/lynette-portfolio/ 
+# 💫 hi, i'm lynette
+🥚third year computer science student @ the university of florida <br>🥚https://lynettehemingway.github.io/lynette-portfolio/ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lynette-hemingway) 
 
 # 💻 tech stack:

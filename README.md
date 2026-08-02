@@ -1,6 +1,6 @@
 # hi, i'm lynette 🐟
 
-Third-year Computer Science student at the University of Florida with a passion for **product design, UX, and front-end development**.
+Fourth-year Computer Science student at the University of Florida with a passion for **product design, UX, and front-end development**.
 
 I love designing thoughtful digital experiences that solve real problems and make technology feel intuitive, accessible, and enjoyable to use.
 

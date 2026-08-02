@@ -1,11 +1,38 @@
-# 💫 hi, i'm lynette
-🥚third year computer science student @ the university of florida <br>🥚https://lynettehemingway.github.io/lynette-portfolio/ 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lynette-hemingway) 
+# hi, i'm lynette 🐟
 
-# 💻 tech stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 github stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lynettehemingway&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Third-year Computer Science student at the University of Florida with a passion for **product design, UX, and front-end development**.
+
+I love designing thoughtful digital experiences that solve real problems and make technology feel intuitive, accessible, and enjoyable to use.
+
+I'm always exploring the intersection of design and engineering—turning ideas into polished products through user research, prototyping, and code.
+
+Feel free to reach out if you'd like to connect, collaborate, or chat about design, technology, or building meaningful products.
+
+[![Email](https://img.shields.io/badge/Email-1F4D4F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F638C?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lynette-hemingway)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F4D4F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lynettehemingway.github.io/lynette-portfolio/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lynettehemingway&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 💻 tech stack
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-1F4D4F?style=for-the-badge&logo=figma&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-4F638C?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F4D4F?style=for-the-badge&logo=javascript&logoColor=white)
+
+### Languages
+![Java](https://img.shields.io/badge/Java-4F638C?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1F4D4F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+# 📊 github overview
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lynettehemingway&theme=github_dark&hide_border=true&layout=compact)
+
+---
+
+![](https://visitcount.itsvg.in/api?id=lynettehemingway&icon=5&color=6)

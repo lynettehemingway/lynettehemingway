@@ -18,21 +18,11 @@ Feel free to reach out if you'd like to connect, collaborate, or chat about desi
 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-1F4D4F?style=for-the-badge&logo=figma&logoColor=white)
-
 ### Frontend
 ![React](https://img.shields.io/badge/React-4F638C?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F4D4F?style=for-the-badge&logo=javascript&logoColor=white)
-
+![Typescript/JavaScript](https://img.shields.io/badge/JavaScript-1F4D4F?style=for-the-badge&logo=javascript&logoColor=white)
 ### Languages
 ![Java](https://img.shields.io/badge/Java-4F638C?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1F4D4F?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
 
-# 📊 github overview
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lynettehemingway&theme=github_dark&hide_border=true&layout=compact)
-
----
-
-![](https://visitcount.itsvg.in/api?id=lynettehemingway&icon=5&color=6)
